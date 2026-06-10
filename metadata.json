@@ -1,0 +1,6 @@
+{
+  "name": "A4 ID Card Combiner",
+  "description": "Combine two images onto a single A4 page and download as a compressed PNG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
